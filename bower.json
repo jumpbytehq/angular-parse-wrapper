@@ -1,9 +1,9 @@
 {
-  "name": "angular-parse-wrapper",
+  "name": "jb-angular-parse-wrapper",
   "version": "0.1.0",
-  "homepage": "https://github.com/rafbgarcia/angular-parse-wrapper",
+  "homepage": "https://github.com/jumpbytehq/angular-parse-wrapper",
   "authors": [
-    "@rafbgarcia @spacenick @arush"
+    "@rafbgarcia @spacenick @arush @jumpbytehq"
   ],
   "dependencies": {
     "momentjs": "~2.0.0",
@@ -17,7 +17,7 @@
     "angular-mocks": "~1.2.13"
   },
   "main": "dist/angular-parse-wrapper.min.js",
-  "description": "A wrapper that integrates Parse with Angular's lifecycle",
+  "description": "A wrapper that integrates Parse with Angular's lifecycle w/ JumpByte Modifications",
   "keywords": [
     "parse",
     "angular",
